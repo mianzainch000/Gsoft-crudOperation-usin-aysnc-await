@@ -1,0 +1,14 @@
+.button {
+  text-transform: none !important;
+  font-size: 20px !important;
+  text-align: center !important;
+  text-decoration: none;
+  color: black !important;
+  margin-top: 10px;
+}
+
+.drawer {
+  display: flex !important;
+  flex-direction: column !important;
+  align-self: center !important;
+}
